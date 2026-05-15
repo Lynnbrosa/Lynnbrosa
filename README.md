@@ -12,7 +12,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=75&text=%E2%9C%A6%20%20lynn%27s%20corner%20%20%E2%9C%A6&fontColor=8B2E2E&fontSize=32&animation=fadeIn&fontAlignY=55" />
 
-São Paulo, BR · gosta de construir coisas que funcionam e têm personalidade.
+São Paulo, BR · construindo coisas que funcionam e têm personalidade.
 
 <br>
 
@@ -62,8 +62,7 @@ São Paulo, BR · gosta de construir coisas que funcionam e têm personalidade.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Lynnbrosa&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&bg_color=F4E8D1&title_color=8B2E2E&text_color=2B1B17&icon_color=A0522D" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynnbrosa&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&bg_color=F4E8D1&title_color=8B2E2E&text_color=2B1B17" />
+
 
 </div>
 
